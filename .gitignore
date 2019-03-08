@@ -1,0 +1,8 @@
+
+node_modules/*
+# Heroku environment configuration
+.env
+env.cmd
+voti.json
+serie.json
+a.json
